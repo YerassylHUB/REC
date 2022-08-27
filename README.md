@@ -1,4 +1,4 @@
-# REC
+# REC SpringBoot
 SpringBoot REST API for REC risk module.
 
 Only GET method. 
